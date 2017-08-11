@@ -18,5 +18,9 @@ public class LoginController {
 
     }
 
+    public void test1(){
+
+    }
+
 
 }
